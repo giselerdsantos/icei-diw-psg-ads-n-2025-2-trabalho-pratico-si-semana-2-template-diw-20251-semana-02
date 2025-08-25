@@ -11,4 +11,4 @@
 
 ## Tela inspeção
 
-![Imagem tela de inspeçao](images/telainpecao.png)
+![Imagem tela de inspeçao](images/telainspecao.png)
