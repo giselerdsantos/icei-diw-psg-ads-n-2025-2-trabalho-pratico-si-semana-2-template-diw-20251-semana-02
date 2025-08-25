@@ -7,8 +7,8 @@
 
 ## Print da tela da página criada 
 
-![Imagem curriculo](images/paginacurriculocerto.png)
+![Imagem curriculo](paginacurriculocerto.png)
 
 ## Tela inspeção
 
-![Imagem tela de inspeçao](images/teladeinspecao.png)
+![Imagem tela de inspeçao](teladeinspecao.png)
