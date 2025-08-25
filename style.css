@@ -1,0 +1,91 @@
+/* Associação pelo NOME DO ELEMENTO */
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+p1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman';
+    font-size: 19px;
+}
+
+body {
+    background-color: rgba(255, 209, 209, 0.663);
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+}
+
+p2 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+}
+
+h4 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+p3 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+p4 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+ul {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+#caixa-dadospersefóne {
+    background-color: rgba(255, 209, 209, 0.663);
+    width: 80%;
+    padding: 10px;
+    float: left;
+
+}
+
+#cabeçalho-curriculo {
+    background-color: rgba(255, 209, 209, 0.663);
+    padding: 17px;
+    width: 16%;
+    float: left;
+    margin-left: 6px;
+
+
+}
+
+#conteudo-curriculo {
+    background-color: rgba(255, 255, 255, 0.705);
+    float: left;
+    padding: 29px;
+    width: 70%;
+
+}
+
+img {
+
+    width: 210px;
+    height: 300px;
+    padding: 10px;
+}
