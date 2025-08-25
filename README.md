@@ -5,8 +5,7 @@
 - Matricula 903350:
 
 ## Print da tela da página criada 
-{Imagem do curriculo}
-<img src=paginacurriculocerta.png>
-{Imagem tela de inspeçao}
-<img src=telainspeçao.png>
+{Imagem do curriculo} (images/paginacurriculocerta.png)
+{Imagem tela de inspeçao} (image/telainspeçao.png)
+
 
