@@ -2,13 +2,13 @@
 
 ## Informações Gerais
  HEAD
-- Nome Gisele Rodrigues dos Santos: 
-- Matricula 903350:
+- Nome: ** Gisele Rodrigues dos Santos
+- Matricula: **903350
 
 ## Print da tela da página criada 
 
-![Imagem curriculo](images/paginacurriculocerta.png)
+![Imagem curriculo](paginacurriculocerta.png)
 
 ## Tela inspeção
 
-![Imagem tela de inspeçao](images/telainspecao.png)
+![Imagem tela de inspeçao](telainspecao.png)
