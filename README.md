@@ -7,6 +7,6 @@
 ## Print da tela da página criada (Curriculum Vitae)
 
 {Imagem do curriculo}
-<img src=paginacurriculocerta.png>
+(images/paginadocurriculocerta.png)
 {Imagem tela de inspeçao}
-<img src=telainspeçao.png>
+(images/telainspeçao.png)
